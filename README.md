@@ -4,5 +4,5 @@
 <p>From today , I decided to update this READme file daily , date by date to update all my learnings of the mentioned day.
 <b>This also brings me an idea of making a personal READme file on which i can daily update daily LIFE MOMENTS i.e all the 
 happy and laugh moments.</b> This also brings a great idea of working on webpage with all the daily memories and images , 
-which i will keep on modifying as soon as i learn more n more exciting features . Thanku to anybody who reads this and
-if it's me thanks to me . hehehe ....Keep on smiling buddy ....Go Look in the sky and LAUGH,LAUGH,LAUGH,hehehehehe .   </p>
+which i will keep on modifying as soon as i learn more n more exciting features .<b> Thanku to anybody who reads this and
+if it's me thanks to me . hehehe ....Keep on smiling buddy ....Go Look in the sky and LAUGH,LAUGH,LAUGH,hehehehehe .</b></p>
